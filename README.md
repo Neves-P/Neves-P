@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neves-P&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Neves-P/Neves-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
