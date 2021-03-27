@@ -1,7 +1,14 @@
 ### Hi there 👋
 I'm [Pedro](https://www.rug.nl/staff/p.m.santos.neves/), a PhD student in theoretical evolutionary biology at the [Universty of Groningen](https://www.rug.nl/research/gelifes/tres/). I study the evolutionary dynamics of communities on island systems.
 
-[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neves-P&hide=stars&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" alt="GitHub Badge" src="https://github-readme-stats.vercel.app/api?username=Neves-P&hide=stars&theme=tokyonight&show_icons=true">
+</p>
+
+
+
 
 
 <!--
