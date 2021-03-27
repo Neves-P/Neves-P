@@ -1,8 +1,7 @@
 ### Hi there 👋
-I'm a PhD student in evolutionary biology at the Universty of Groningen. I'm focused primarily on studying evolutionary dynamics of communities on island systems.
+I'm [Pedro](https://www.rug.nl/staff/p.m.santos.neves/), a PhD student in theoretical evolutionary biology at the [Universty of Groningen](https://www.rug.nl/research/gelifes/tres/). I study the evolutionary dynamics of communities on island systems.
 
 [![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neves-P&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
