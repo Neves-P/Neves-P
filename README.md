@@ -1,5 +1,10 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neves-P&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+I'm a PhD student in evolutionary biology at the Universty of Groningen. I'm focused primarily on studying evolutionary dynamics of communities on island systems.
+
+[![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neves-P&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **Neves-P/Neves-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
