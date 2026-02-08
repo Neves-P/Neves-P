@@ -1,25 +1,18 @@
-### Hi there 👋
-I'm [Pedro](https://www.rug.nl/staff/p.m.santos.neves/), I work in the [High Performance Computing team](https://www.rug.nl/staff/departments/20025) of the Center for Information Technology, University of Groningen. There, I mostly work supporting and training users of the [Hábrók HPC](https://wiki.hpc.rug.nl/habrok/start), and on maintaining and developing new features for the cluster.
+# Hi there 👋 I'm Pedro Neves
 
-Half of my work time is dedicated to the [EESSI](https://eessi.io) project, an effort to build and distribute an optimized scientific software stack to HPC sites and other systems. The EESSI project is part of the [MultiXscale Center of Excellence](https://multixscale.eu), funded by the EuroHPC Joint Undertaking.
+I’m a **High Performance Computing (HPC) specialist** at the [Center for Information Technology, University of Groningen](https://www.rug.nl/cit). My work focuses on supporting and training users of the [Hábrók HPC cluster](https://wiki.hpc.rug.nl/habrok/start), as well as maintaining and developing new features for the cluster.
 
-I have also worked as a scientific programmer at the [Groningen Institute for Evolutionary Life Sciences](https://www.rug.nl/research/gelifes/?lang=en), and before that I was a PhD student in theoretical evolutionary biology at the [Universty of Groningen](https://www.rug.nl/research/gelifes/tres/). I studied the evolutionary and ecological dynamics of communities on island systems and [graduated](https://doi.org/10.33612/diss.1127273367) in 2024.
+### 🔬 Research & Projects
+- **EESSI Project**: I dedicate half of my time to the [EESSI](https://eessi.io) initiative, which aims to build and distribute an optimized scientific software stack to HPC sites and other systems. EESSI is part of the [MultiXscale Center of Excellence](https://multixscale.eu), funded by the EuroHPC Joint Undertaking.
+
+- **Scientific Programming**: Previously, I worked as a scientific programmer at the [Groningen Institute for Evolutionary Life Sciences (GELIFES)](https://www.rug.nl/research/gelifes/?lang=en).
+
+- **PhD in Theoretical Evolutionary Biology**: obtained my PhD at the [University of Groningen](https://www.rug.nl/research/gelifes/tres/), where I studied the evolutionary and ecological dynamics of communities on island systems. You can read my dissertation [here](https://doi.org/10.33612/diss.1127273367).
+
+### 🛠️ Skills & Interests
+- **HPC & Cluster Management**
+- **Scientific Software Development**
+- **Evolutionary Biology & Ecology**
+- **Open Science & Reproducibility**
 
 
-
-
-
-<!--
-**Neves-P/Neves-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
